@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">healthy_content</string>
+    <string name="textview"><b>TYPING PRO</b></string>
+    <string name="text_sitting_position">
+        \n
+        <b>1.</b> Sit straight and remember to keep your back straight.
+        \n\n
+        <b>2.</b> keep your elbows bent at  the right angle.
+        \n\n
+        <b>3.</b> Face the screen with your head slightly tilted forward.
+        \n\n
+        <b>4.</b> Keep at least 45-70 cm of distance between your eyes and the screen.
+        \n\n
+        <b>5.</b> Expose the shoulder, arm, and wrist muscles to the least possible strain. The wrist can touch the table top in front of the keyboard. Never shift your body weight to the wrists by resting on them.
+
+    </string>
+    <string name="text_home_row_position">
+        Curve your fingers a little and pull them on the ASDF and JKL; keys which are located in the middle row of the letter keys. This row is called HOME ROW because you always start from these keys and always return to them.\nF and J keys under your index fingers should have a raised line on them to aide in finding these keys without looking.
+
+    </string>
+    <string name="text_keyboard_scheme">The color-coded keyboard under lesson input field will help you to understand which finger should press each key.
+        \n\n\nHit keys only with the fingers for which they have been reserved.
+        \n\nAlways return to the starting position of the fingers "ASDF - JKL;".
+        \n\nWhen typing, imagine the location of the symbol on the keyboard.
+        \n\nEstablish and maintain a rhythm whim typing. Your keystroke should come at equal intervals.
+        \n\nThe SHIFT key is always pressed by the pinky finger opposite to the one hitting the other key.
+        \n\nUse the thumb of whichever hand is more convenient for you to press the Space bar.
+        \n\n\nThis method may seem inconvenient at first, but do not stop, eventually, you\'ll find out that you are typing quickly, easily, and conveniently. To achieve the maximum result, choose a touch typing course for your keyboard layout and in the desired language.
+
+    </string>
+    <string name="text_finger_motion">
+        \nDont\'t look at the keys when you type. Just slide your fingers around until they find the home row marking.
+        \n\nLimit your hand and finger movement only to what is necessary to press a specific key. Keep your hands and fingers close to the base position. This improves typing speed and reduces stress on the hands.
+        \n\nPay attention to ring fingers and little fingers, since they are considerably underdeveloped.
+    </string>
+    <string name="text_typing_speed">
+        \n\nDo not rush when you just started learning. Speed up only when your fingers hit the right keys out of habit.
+        \n\nTake your time when typing to avoid mistakes. The speed will pick up as you progress.
+        \n\nAlways scan the text a word or two in advance.
+        \n\nPass all type of lessons at your typing software. It will help you to get above the average typing speed.
+    </string>
+    <string name="text_take_care">
+        \n\nTake a break if you feel that you get distracted easily and are making a lot of mistakes. It is more productive to come back when you feel refreshed.
+        \n\nPsst! You could have more fun with your groups. Invite your friends for collective studies and competitions. Groups work well for teachers too. And do not forget to try the game mode ;)
+    </string>
+    <string name="text_contact">
+        <b>RISHABH PANDEY</b>
+        \n\nuniquepandey125@gmail.com
+    </string>
+</resources>
